@@ -1,0 +1,19 @@
+return {
+-- Table: {1}
+{
+   ["__octane.shadow"]={2},
+},
+-- Table: {2}
+{
+   ["samplesSlider"]=400,
+   ["frameSlider"]=250,
+   ["shutterSlider"]=0,
+   ["frameRateSlider"]=25,
+   ["cameraPathAngle"]=0,
+   ["previewSamplesSlider"]=20,
+   ["offsetSlider"]=0,
+   ["spiralSlider"]=0,
+   ["durationSlider"]=10,
+   ["degSlider"]=360,
+},
+}
